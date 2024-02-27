@@ -1,16 +1,14 @@
-### Hi there 👋
+# About me 👋
 
 <!--
 **DK-fish/DK-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a postgraduate studying in Hangzhou, China
+- 🌱 I’m currently studying machine learning in optics
+- 😄 motto: Look up at the starry sky, stand on solid ground
+- ⚡ interests: Optics, machine learning, and some hands-on stuff
+- ⚡ hobbies: Football, table tennis, movies, old and classic songs
+- ✨ Grow stronger and stronger ✨-
+
+  
